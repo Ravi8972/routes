@@ -1,0 +1,10 @@
+.navbar{
+background-color: rgb(39, 117, 117);
+}
+
+.navbar a{
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 30px;
+    display: inline-block;
+}
