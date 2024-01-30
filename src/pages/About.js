@@ -1,5 +1,5 @@
 import React from 'react'
-
+ // Name of function should be start with capital letter
 function About() {
   return (
     <div>
